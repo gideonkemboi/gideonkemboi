@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/github/followers/gideonkemboi?label=Follow&style=social)](https://github.com/gideonkemboi)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Java**
 
 - 👨‍💻 Find my portfolio website [here](https://gideonkemboi.onrender.com/).
 
